@@ -28,8 +28,8 @@
 
 			"PowerInfo": {
 				"Pwrt": 1,
-				"Vlt": 12007,
-				"Crnt": 257,
+				"Vlt": 12000,
+				"Crnt": 500,
 				"2Vlt": 0,
 				"2Crnt": 0,
 				"Battery": 10
@@ -50,9 +50,51 @@
 
 			"PowerInfo": {
 				"Pwrt": 1,
-				"Vlt": 9740,
-				"Crnt": 234,
-				"2Vlt": 150,
+				"Vlt": 9000,
+				"Crnt": 300,
+				"2Vlt": 400,
+				"2Crnt": 204,
+				"Battery": 11
+			}
+
+		},
+        {
+			"id": 1,
+			"GalSn": 4190016,
+			"DglId": "DGL 2544",
+			"Time": "2021-10-15T09:42:22.054Z",
+
+			"Psn": {
+				"Disp": 0.6579327,
+				"EdgePk": "Демонтажный ствол"
+			},
+
+			"PowerInfo": {
+				"Pwrt": 1,
+				"Vlt": 6000,
+				"Crnt": 400,
+				"2Vlt": 300,
+				"2Crnt": 204,
+				"Battery": 11
+			}
+
+		},
+        {
+			"id": 1,
+			"GalSn": 4190016,
+			"DglId": "DGL 2544",
+			"Time": "2021-10-15T09:42:22.054Z",
+
+			"Psn": {
+				"Disp": 0.6579327,
+				"EdgePk": "Демонтажный ствол"
+			},
+
+			"PowerInfo": {
+				"Pwrt": 1,
+				"Vlt": 3000,
+				"Crnt": 500,
+				"2Vlt": 200,
 				"2Crnt": 204,
 				"Battery": 11
 			}
